@@ -1,0 +1,69 @@
+nav{
+    background-color: #000000;
+}
+li.nav-item {
+    padding: 0px 10px;
+}
+.h{
+    max-height: 500px;
+}
+div#carouselExampleIndicators {
+    margin-top: 57px;
+}
+.gear i {
+    margin-bottom:3px;
+    font-size: 50px;
+    font-weight: bolder; 
+}
+.get-started{
+    background-image: url(img/pc.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.p{
+    padding: 80px 0px;
+}
+.dark-overlay{
+    background: rgba(0, 0, 0, 0.7);
+}
+.course{
+    background-image: url(img/people.jpeg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.course .dark-overlay{
+    background: rgba(24, 23, 23, 0.7);
+}
+.course i{
+    font-size: 50px;
+    font-weight: bolder;
+    color: white;
+}
+.fotter-signup{
+    background-color: #343A40;
+}
+footer{
+    background-color: #000000;
+}
+.about-heading{
+    padding-top: 50px;
+    background-image: url(img/image1.jpeg);
+}
+.service-heading{
+    padding-top: 50px;
+    background-image: url(img/image2.jpeg);
+}
+
+.we-do{
+    
+}
+.about-night i{
+ font-size: 38px;
+ font-weight: bolder;
+}
+.messege{
+    height: 140px;
+    width: 100%;
+}
